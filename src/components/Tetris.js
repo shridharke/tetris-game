@@ -83,6 +83,9 @@ function Tetris() {
             else if(keyCode===38){
                 playerRotate(stage, 1);
             }
+            else if(keyCode===13){
+                startGame();
+            }
         }
     }
 
