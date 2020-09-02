@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tetris-game/static/css/main.7d7deb05.chunk.css",
-    "main.js": "/tetris-game/static/js/main.a5c4fa1f.chunk.js",
-    "main.js.map": "/tetris-game/static/js/main.a5c4fa1f.chunk.js.map",
+    "main.js": "/tetris-game/static/js/main.65788feb.chunk.js",
+    "main.js.map": "/tetris-game/static/js/main.65788feb.chunk.js.map",
     "runtime-main.js": "/tetris-game/static/js/runtime-main.7f86b2a8.js",
     "runtime-main.js.map": "/tetris-game/static/js/runtime-main.7f86b2a8.js.map",
     "static/js/2.3cb05dad.chunk.js": "/tetris-game/static/js/2.3cb05dad.chunk.js",
     "static/js/2.3cb05dad.chunk.js.map": "/tetris-game/static/js/2.3cb05dad.chunk.js.map",
     "index.html": "/tetris-game/index.html",
-    "precache-manifest.af1a7575e42302d00e23f796a7807956.js": "/tetris-game/precache-manifest.af1a7575e42302d00e23f796a7807956.js",
+    "precache-manifest.0591c15030501de94ce6c5d18ca07dc6.js": "/tetris-game/precache-manifest.0591c15030501de94ce6c5d18ca07dc6.js",
     "service-worker.js": "/tetris-game/service-worker.js",
     "static/css/main.7d7deb05.chunk.css.map": "/tetris-game/static/css/main.7d7deb05.chunk.css.map",
     "static/js/2.3cb05dad.chunk.js.LICENSE.txt": "/tetris-game/static/js/2.3cb05dad.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7f86b2a8.js",
     "static/js/2.3cb05dad.chunk.js",
     "static/css/main.7d7deb05.chunk.css",
-    "static/js/main.a5c4fa1f.chunk.js"
+    "static/js/main.65788feb.chunk.js"
   ]
 }
